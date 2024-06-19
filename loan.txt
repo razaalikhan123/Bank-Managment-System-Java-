@@ -1,0 +1,7 @@
+*****loan*****
+Name: Saim
+Account number: oopSaim18963
+You have taken Loan of: 5000
+Payable Amount: 8150.0
+Every Month you will pay: 679.1666666666666
+***************
